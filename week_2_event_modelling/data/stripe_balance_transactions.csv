@@ -1,0 +1,4 @@
+id,type,amount,currency
+txn_1,charge,5000,gbp
+txn_2,fee,-175,gbp
+txn_3,payout,-4825,gbp
